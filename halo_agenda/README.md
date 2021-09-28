@@ -4,25 +4,25 @@ Veritabanı olarak [sqflite](https://pub.dev/packages/sqflite) kullanılmıştı
 
 ## Application Images
 
-###Home Screen
+### Home Screen
 <img src="images/home-screen.png" width="300">
 
-###Add Notebook Group
+### Add Notebook Group
  <img src="images/add-notebook.png" width="300"> 
  
-###Add Shopping Group
+### Add Shopping Group
  <img src="images/add-shopping.png" width="300"> 
  
-###Add Todo Group
+### Add Todo Group
  <img src="images/add-todo-list.png" width="300">
 
-###Notes Screen
+### Notes Screen
 <img src="images/notes-screen.png" width="300"> <img src="images/notes-scren-2.png" width="300">
 
-###Shooping Screen
+### Shooping Screen
 <img src="images/shopping-screen.png" width="300"> <img src="images/shopping-screen-2.png" width="300">
 
-###Todo Screen
+### Todo Screen
 <img src="images/todo-screen.png" width="300"> <img src="images/todo-screen-2.png" width="300">
 
 
