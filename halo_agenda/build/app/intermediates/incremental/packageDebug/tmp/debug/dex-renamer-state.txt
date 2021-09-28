@@ -1,0 +1,4 @@
+#Tue Sep 28 17:52:45 EET 2021
+base.0=E\:\\All_Projects\\FlutterProjects\\halo_agenda\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

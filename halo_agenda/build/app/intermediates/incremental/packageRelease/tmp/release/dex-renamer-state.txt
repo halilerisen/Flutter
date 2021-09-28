@@ -1,0 +1,4 @@
+#Thu Jul 16 22:29:37 EET 2020
+base.0=E\:\\All_Projects\\FlutterProjects\\halo_agenda\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
