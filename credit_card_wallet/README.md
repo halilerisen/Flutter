@@ -7,7 +7,7 @@
 
 Oturum Ekranında yer alan arkaplan ClipPath ile çizdirilmiştir. Farklı ekranlarda veya klavye açıldığında kendini günceller.
 
-<img src="images/dynamic_background_1.png" width="300"> <img src="images/dynamic_background_2.png" width="300"> 
+<img src="images/dynamic_background_3.png" width="300"> <img src="images/dynamic_background_1.png" width="300"> <img src="images/dynamic_background_2.png" width="300"> 
 
 ## Kart Animasyon
 
